@@ -1,0 +1,4 @@
+../../nova/etc/nova/api-paste.ini etc/nova
+../../nova/etc/nova/policy.json etc/nova
+../../nova/etc/nova/policy.json etc/nova
+../../nova/etc/nova/rootwrap.conf etc/nova
